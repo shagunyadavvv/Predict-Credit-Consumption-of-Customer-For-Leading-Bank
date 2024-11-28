@@ -20,6 +20,7 @@ between the characteristics of the consumers and their consumption patterns.
 Business Objectives:
 
 One of the leading banks provided the below data
+
 a. Customer Demographics
 
 b. Customer Behavioural data (information on liabilities, assets, and history of transactions with
